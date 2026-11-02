@@ -43,6 +43,7 @@ All labs share the same workspace and lakehouse, so each lab starts from the sta
 | 2 | Ingest data with a pipeline | 45 min | [02-ingest-pipeline.md](Labs/Lab2/02-ingest-pipeline.md) | None (data comes from a URL) |
 | 3 | Create and use Dataflows (Gen2) | 30 min | [03-dataflows-gen2.md](Labs/Lab3/03-dataflows-gen2.md) | None (data comes from a URL) |
 | 4 | Analyze data with Apache Spark | 45 min | [04-analyze-spark.md](Labs/Lab4/04-analyze-spark.md) | `Labs/Lab4/Assets/orders` folder |
+| 4a | Analyze data with Apache Spark | 45 min | [4a-medallion-architecture.md](Labs/Lab4a/4a-medallion-architecture.md) | `Labs/Lab4a/Assets/orders` folder |
 | 5 | Use Delta tables in Apache Spark | 45 min | [05-delta-lake.md](Labs/Lab5/05-delta-lake.md) | `Labs/Lab5/Assets/products.csv` |
 | 6 | Design a semantic model for scale | 30 min | [06-design-semantic-model-scale.md](Labs/Lab6/06-design-semantic-model-scale.md) | `Labs/Lab6/Assets/Create-Sales-Data.ipynb` |
 | 7 | Analyze data with Spark and Copilot in notebooks | 30 min | [07-copilot-fabric-notebooks.md](Labs/Lab7/07-copilot-fabric-notebooks.md) | Optional: `Labs/Lab7/Assets/eurostat-notebook.ipynb` |
