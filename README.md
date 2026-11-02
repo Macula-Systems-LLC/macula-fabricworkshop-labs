@@ -1,6 +1,6 @@
 # Macula Microsoft Fabric Workshop
 
-Hands-on labs for **Macula's Microsoft Fabric Workshop on 11/5/2026**. You build a working Fabric platform in your own workspace: a lakehouse, pipelines and dataflows, Spark and Delta tables, a semantic model, and Copilot and data agents.
+Hands-on labs for **Macula's Microsoft Fabric Workshop**. You build a working Fabric platform in your own workspace: a lakehouse, pipelines and dataflows, Spark and Delta tables, a semantic model, and Copilot and data agents.
 
 Please complete the setup below **before the session**. It takes about 10 minutes.
 
@@ -26,24 +26,12 @@ Please complete the setup below **before the session**. It takes about 10 minute
 1. Wait about a minute for the lakehouse to be created.
 1. In the Lakehouse explorer, confirm you see two empty folders: **Tables** and **Files**.
 
-## Step 3: Get the lab files
-
-The labs use sample files that are stored in this repo. Get a copy on your laptop using either option:
-
-- **Download ZIP:** Select **Code** > **Download ZIP** on this repo's GitHub page, then unzip it.
-- **Git:** Run `git clone <this repo's URL>`.
-
-You will upload files from the `Labs/LabN/Assets` folders during the labs.
-
 ## Quick check before you arrive
 
 - [ ] I can sign in at https://app.fabric.microsoft.com
 - [ ] I have a workspace named `Macula-FabricDemo-Workshop`
 - [ ] It contains a lakehouse named `MaculaWorkshopDemo` with empty **Tables** and **Files** folders
-- [ ] I have the lab files unzipped on my laptop
 - [ ] I know whether my capacity is paid (needed for Labs 7 and 8) or trial
-
-If you get stuck on any step, reply to your registration email before 11/5/2026 and we'll help you sort it out.
 
 ## The labs
 
@@ -67,10 +55,10 @@ Labs 7 and 8 need a paid capacity with Copilot enabled (see above).
 We will not clean up during the session. When you have finished exploring, remove what you created so it stops using capacity.
 
 1. If a notebook is still running, select **Stop session** on the notebook menu to end the Spark session.
-1. In the left bar, select your workspace icon to see all of its items.
-1. Select **Workspace settings**.
-1. In the **General** section, scroll down and select **Remove this workspace**.
-1. Select **Delete** to confirm.
+2. In the left bar, select your workspace icon to see all of its items.
+3. Select **Workspace settings**.
+4. In the **General** section, scroll down and select **Remove this workspace**.
+5. Select **Delete** to confirm.
 
 ## Credits
 
