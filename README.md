@@ -8,7 +8,7 @@ Please complete the setup below **before the session**. It takes about 10 minute
 
 - A laptop with a modern browser (Microsoft Edge or Google Chrome). You do not need to install any software.
 - A Microsoft Fabric account that you can sign in to with a work or school account, with access to a paid or trial capacity. If you don't have one, you can start a free Fabric trial: https://learn.microsoft.com/fabric/get-started/fabric-trial
-- **For Labs 7 and 8 (Copilot and data agents):** a **paid** Fabric capacity with Copilot enabled. Microsoft's labs state that a Fabric trial does not support Copilot. If you only have a trial capacity, you can still complete Labs 1 to 6, and Labs 7 and 8 will be shown as demos. If you are unsure whether Copilot is enabled for your tenant, ask your Fabric administrator before the session.
+- **For Labs 7 and 8 (Copilot and data agents):** a **paid** Fabric capacity with Copilot enabled. If you only have a trial capacity, you can still complete Labs 1 to 6, and Labs 7 and 8 will be shown as demos. If you are unsure whether Copilot is enabled for your tenant, ask your Fabric administrator before the session.
 
 ## Step 1: Create a workspace
 
