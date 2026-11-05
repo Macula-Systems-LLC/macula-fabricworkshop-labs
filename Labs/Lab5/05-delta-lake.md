@@ -124,7 +124,7 @@ You can run analytical queries against Delta tables with SQL. A *temporary view*
     CREATE OR REPLACE TEMPORARY VIEW products_view
     AS
         SELECT Category, COUNT(*) AS NumProducts, MIN(ListPrice) AS MinPrice, MAX(ListPrice) AS MaxPrice, AVG(ListPrice) AS AvgPrice
-        FROM dbo.products_table
+        FROM products_table
         GROUP BY Category;
 
     SELECT *
